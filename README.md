@@ -1,2 +1,1 @@
-Dataviz on Zika virus, on recent outbreaks
-Visualisation of timeline PLUS zoom on EU preparation
+Learn to scrap the Web, on Zika virus data from WHO
