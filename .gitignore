@@ -2,7 +2,6 @@ ZIKA_DATA.md
 \linkurious.js\
 \_shelf\
 \data\
-\code\R\old\
-\code\R\
 .Rproj.user
 \notebooks\.ipynb_checkpoints\
+\code\python\zikaScrapy_local.py
