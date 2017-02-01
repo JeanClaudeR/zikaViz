@@ -100,8 +100,7 @@ zikaTerritory = zika[["Country", "Territory"]]
 # EXPORT THE RELEVANT DATA TO BE GRAPHED
 
 zikaExport = zikaDate.join(zikaTerritory) 
-zikaJSON = zikaExport.to_json(path_or_buf="c:\\users\\frurajc\\sgl\dataviz\\zikaViz\\data\\zikatest.json", orient="index")
-zikaCSV=zikaExport.to_csv(path_or_buf="c:\\users\\frurajc\\sgl\dataviz\\zikaViz\\data\\zikatest.csv")
+
 
 
 
